@@ -37,10 +37,15 @@ body {
 h1 {
   color: white;
   font-family: 'Avenir-Medium';
-  text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 1.5px;
   text-align: center;
   font-size: 22px;
+  margin-top: 80px;
+}
+
+span {
+  font-family: sans-serif;
+  font-weight: 300;
 }
 
 img {
